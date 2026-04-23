@@ -5,3 +5,7 @@ En mi tiempo libre disfruto leer, escuchar música y salir a caminar al aire lib
 Trabajo en proyectos de software y me gusta ayudar a otros a mejorar sus habilidades digitales.  
 Siempre estoy buscando nuevas formas de ser creativo y resolver problemas.
 (inventado)
+
+# Mi pajarito
+mi ninfa Auri
+![Mi ninfa](/img/photo_2026-04-23_14-59-23.jpg)
